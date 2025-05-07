@@ -1,19 +1,9 @@
 fileFormatVersion: 2
-guid: 68988ad0fa1849747b1e0fc1c71e0c33
+guid: 5061880e74cd7e64098dc221bcca8cc3
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: PunchBotUpgradedFaceplate_mat
-    second: {fileID: 2100000, guid: 1a414dc6305b9bb4d970b776923b6ce9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: PunchBotUpgraded_mat
-    second: {fileID: 2100000, guid: 0e10123c5280d17459996181df689552, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -41,7 +31,36 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Punch
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
     isReadable: 0
   meshes:
     lODScreenPercentages: []
@@ -87,16 +106,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips:
-  - db5c405d410daa74aaf9edb653aa2f43
-  - 9f97392a8f791cb42b9f4cc5d973d322
-  - c28215b76f5ae2449a9c0e8a322bce64
-  - 94b4fb5a99587d04fbabc7e2c6cf966f
-  - b3f2233146bd1db4285a027a249f4cf2
-  - 6df679992e54c7440af52e3fbc466b17
-  - 5061880e74cd7e64098dc221bcca8cc3
-  - 6d648a0b14327f6418a11507bf11ca50
-  - 067da29c08990e2448eb9bb8312f9f43
+  referencedClips: []
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
@@ -114,11 +124,11 @@ ModelImporter:
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 68988ad0fa1849747b1e0fc1c71e0c33, type: 3}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
+  avatarSetup: 2
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
