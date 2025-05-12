@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PunchBotUpgraded_AvatarMask
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/body_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/faceplate_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_arm_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_elbowball_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_finger_01_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_finger_02_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_finger_03_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_finger_04_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_foot_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_forearm_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_handball_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_hipball_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_kneeball_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_leg_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/l_shoulderball_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_arm_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_elbowball_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_finger_01_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_finger_02_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_finger_03_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_finger_04_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_foot_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_forearm_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_handball_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_hipball_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_kneeball_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_leg_low
+    m_Weight: 1
+  - m_Path: PunchbotUpgraded_low/r_shoulderball_low
+    m_Weight: 1
+  - m_Path: world_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_hip_fk_jnt
+    m_Weight: 0
+  - m_Path: world_jnt/root_jnt/l_hip_fk_jnt/l_knee_fk_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_hip_fk_jnt/l_knee_fk_jnt/l_foot_fk_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_hip_ik_jnt
+    m_Weight: 0
+  - m_Path: world_jnt/root_jnt/l_hip_ik_jnt/l_knee_ik_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_hip_ik_jnt/l_knee_ik_jnt/l_foot_ik_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_hip_jnt
+    m_Weight: 0
+  - m_Path: world_jnt/root_jnt/l_hip_jnt/l_knee_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_hip_jnt/l_knee_jnt/l_foot_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_fk_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_fk_jnt/l_elbow_fk_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_fk_jnt/l_elbow_fk_jnt/l_wrist_fk_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_ik_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_ik_jnt/l_elbow_ik_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_ik_jnt/l_elbow_ik_jnt/l_wrist_ik_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_01_jnt_01
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_01_jnt_01/l_finger_01_jnt_02
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_01_jnt_01/l_finger_01_jnt_02/l_finger_01_jnt_03
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_01_jnt_01/l_finger_01_jnt_02/l_finger_01_jnt_03/l_finger_01_jnt_04
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_02_jnt_01
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_02_jnt_01/l_finger_02_jnt_02
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_02_jnt_01/l_finger_02_jnt_02/l_finger_02_jnt_03
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_02_jnt_01/l_finger_02_jnt_02/l_finger_02_jnt_03/l_finger_02_jnt_04
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_03_jnt_01
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_03_jnt_01/l_finger_03_jnt_02
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_03_jnt_01/l_finger_03_jnt_02/l_finger_03_jnt_03
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_finger_03_jnt_01/l_finger_03_jnt_02/l_finger_03_jnt_03/l_finger_03_jnt_04
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_thumb_jnt_01
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_thumb_jnt_01/l_thumb_jnt_02
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_thumb_jnt_01/l_thumb_jnt_02/l_thumb_jnt_03
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/l_shoulder_jnt/l_elbow_jnt/l_wrist_jnt/l_thumb_jnt_01/l_thumb_jnt_02/l_thumb_jnt_03/l_thumb_jnt_04
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_hip_fk_jnt
+    m_Weight: 0
+  - m_Path: world_jnt/root_jnt/r_hip_fk_jnt/r_knee_fk_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_hip_fk_jnt/r_knee_fk_jnt/r_foot_fk_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_hip_ik_jnt
+    m_Weight: 0
+  - m_Path: world_jnt/root_jnt/r_hip_ik_jnt/r_knee_ik_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_hip_ik_jnt/r_knee_ik_jnt/r_foot_ik_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_hip_jnt
+    m_Weight: 0
+  - m_Path: world_jnt/root_jnt/r_hip_jnt/r_knee_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_hip_jnt/r_knee_jnt/r_foot_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_fk_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_fk_jnt/r_elbow_fk_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_fk_jnt/r_elbow_fk_jnt/r_wrist_fk_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_ik_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_ik_jnt/r_elbow_ik_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_ik_jnt/r_elbow_ik_jnt/r_wrist_ik_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_01_jnt_01
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_01_jnt_01/r_finger_01_jnt_02
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_01_jnt_01/r_finger_01_jnt_02/r_finger_01_jnt_03
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_01_jnt_01/r_finger_01_jnt_02/r_finger_01_jnt_03/r_finger_01_jnt_04
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_02_jnt_01
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_02_jnt_01/r_finger_02_jnt_02
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_02_jnt_01/r_finger_02_jnt_02/r_finger_02_jnt_03
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_02_jnt_01/r_finger_02_jnt_02/r_finger_02_jnt_03/r_finger_02_jnt_04
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_03_jnt_01
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_03_jnt_01/r_finger_03_jnt_02
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_03_jnt_01/r_finger_03_jnt_02/r_finger_03_jnt_03
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_finger_03_jnt_01/r_finger_03_jnt_02/r_finger_03_jnt_03/r_finger_03_jnt_04
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_thumb_jnt_01
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_thumb_jnt_01/r_thumb_jnt_02
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_thumb_jnt_01/r_thumb_jnt_02/r_thumb_jnt_03
+    m_Weight: 1
+  - m_Path: world_jnt/root_jnt/r_shoulder_jnt/r_elbow_jnt/r_wrist_jnt/r_thumb_jnt_01/r_thumb_jnt_02/r_thumb_jnt_03/r_thumb_jnt_04
+    m_Weight: 1
